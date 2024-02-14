@@ -3,4 +3,4 @@ I have implemented an OAuth which enables to login to the account, to retrieve g
 In the main java file, change, the spreadsheet id to your id.
 The project utilizes gradle for easy dependency inclusion, so it will be a bit easier if you have gradle installed.
 
-In the src/main/java/resources/credentials.json add the api keys from your google account.
+In the src/main/java/resources/credentials.json add the api keys from your google developer account.
